@@ -7,4 +7,5 @@ func main() {
 	num2 := 20
 	result := num1 + num2
 	fmt.Println(result)
+	fmt.Println("Changes made in the file")
 }
